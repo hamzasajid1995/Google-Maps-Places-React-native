@@ -42,7 +42,7 @@ class PlacesScreen extends Component {
       latitudeDelta: 0.0922,
       longitudeDelta: 0.0421,
     };
-    this.API_KEY = 'AIzaSyDai50O1JJN5mgRPVI4qb7kr7SUxDZvpnA';
+    this.API_KEY = 'YOUR_GOOGLE_API_KEY';
 
     this.mapPanDragByUser = false;
 
