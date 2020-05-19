@@ -18,4 +18,4 @@ npm run android
 * [React Native Geolocation Service](https://github.com/Agontuk/react-native-geolocation-service)
 
 ## Demo
-<!-- <img src="https://github.com/hamzasajid1995/google-maps-with-carousel-react-native/blob/master/demo/demo.gif?raw=true"  /> -->
+<img src="https://github.com/hamzasajid1995/Google-Maps-Places-React-native/blob/master/demo/20200519_235220.gif?raw=true"  />
